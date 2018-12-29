@@ -1,0 +1,954 @@
+# time_begin = 3:36
+
+avg@
+
+# sent_id = 3
+# text = И-и не так давно ещё я съездила в Исландию, ну это прям, конечно, жемчужина / всех / путешествий и вообще, многие блогеры, путешественники, кто вот люди / постоянно ездят по миру / го… называют Исландию вот прям / вишенкой на торте для путешественников, что это самое такое, самое клёвое место, крутое.
+1	И-и	И	CONJ	_	_	_	_	_
+2	не	не	PART	_	_	_	_	_	_
+3	так	так	ADV	_	Degree=Pos	_	_	_	_
+4	давно	давно	ADV	_	Degree=Pos	_	_	_	_
+5	ещё	еще	ADV	_	Degree=Pos	_	_	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+7	съездила	съездить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+8	в	в	ADP	_	_	_	_	_	_
+9	Исландию	Исландия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	_
+11	ну	ну	PART	_	_	_	_	_	_
+12	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+13	прям	прямо	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	_
+15	конечно	конечно	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	_
+17	жемчужина	жемчужина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	всех	все	DET	_	Case=Gen|Number=Plur	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	путешествий	путешествие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	_
+22	и	и	CCONJ	_	_	_	_	_	_
+23	вообще	вообще	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	_
+25	многие	многий	!DET	_	_	_	_	_	_
+26	блогеры	блоггер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	_
+28	путешественники	путешественник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	_
+30	кто	кто	PRON	_	Case=Nom	_	_	_	_
+31	вот	вот	PART	_	_	_	_	_	_
+32	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+33	/	/	PUNCT	_	_	_	_	_	_
+34	постоянно	постоянно	ADV	_	Degree=Pos	_	_	_	_
+35	ездят	ездить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+36	по	по	ADP	_	_	_	_	_	_
+37	миру	мир	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+38	/	/	PUNCT	_	_	_	_	_	_
+39	го	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+40	…	…	PUNCT	_	_	_	_	_	_
+41	называют	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+42	Исландию	Исландия	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+43	вот	вот	PART	_	_	_	_	_	_
+44	прям	прямо	ADV	_	_	_	_	_
+45	/	/	PUNCT	_	_	_	_	_	_
+46	вишенкой	вишенка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+47	на	на	ADP	_	_	_	_	_	_
+48	торте	торт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+49	для	для	ADP	_	_	_	_	_	_
+50	путешественников	путешественник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+51	,	,	PUNCT	_	_	_	_	_	_
+52	что	что	SCONJ	_	_	_	_	_	_
+53	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+54	самое	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+55	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	_	_	_	_
+57	самое	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+58	клёвое	клёвый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+59	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+60	,	,	PUNCT	_	_	_	_	_	_
+61	крутое	крутой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+62	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 5
+# text = Конечно, да, мне очень понравилось, там мы пробыли неделю, брали в аренду машину и
+1	Конечно	конечно	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	да	да	PART	_	_	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	_
+5	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+6	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+7	понравилось	понравиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	_
+9	там	там	ADV	_	Degree=Pos	_	_	_	_
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+11	пробыли	пробыть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	неделю	неделя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	_
+14	брали	брать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	в	в	ADP	_	_	_	_	_	_
+16	аренду	аренда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+17	машину	машина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+18	и	и	CCONJ	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 7
+# text = проехали весь остров
+1	проехали	проехать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	весь	весь	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+3	остров	остров	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 9
+# text = вокруг против часовой стрелки, а-а останавливались там в хостелах и в палатке и самостоятельно выбирали себе маршрут / и самостоятельно выбирали достопримечательности, которые мы хотим посетить.
+1	вокруг	вокруг	ADV	_	Degree=Pos	_	_	_	_
+2	против	против	ADP	_	_	_	_	_	_
+3	часовой	часовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+4	стрелки	стрелка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	_
+6	а-а	а	INTJ	_	_	_	_	_	
+9	останавливались	останавливаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+10	там	там	ADV	_	Degree=Pos	_	_	_	_
+11	в	в	ADP	_	_	_	_	_	_
+12	хостелах	хостел	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+14	и	и	CCONJ	_	_	_	_	_	_
+15	в	в	ADP	_	_	_	_	_	_
+16	палатке	палатка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+17	и	и	CCONJ	_	_	_	_	_	_
+18	самостоятельно	самостоятельно	ADV	_	Degree=Pos	_	_	_	_
+19	выбирали	выбирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+20	себе	себя	PRON	_	Case=Dat	_	_	_	_
+21	маршрут	маршрут	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	и	и	CCONJ	_	_	_	_	_	_
+24	самостоятельно	самостоятельно	ADV	_	Degree=Pos	_	_	_	_
+25	выбирали	выбирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+26	достопримечательности	достопримечательность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	_
+28	которые	который	PRON	_	Case=Acc	_	_	_	_
+29	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+30	хотим	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+31	посетить	посетить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 11
+# text = А-а-а особенно, наверное, во всех вот этих вот поездках, где бы я ни была, больше всего мне нравится / узнавать что-то новое именно о культуре, об образе жизни, о каких-то особенностях менталитета носи…, хотя я отчасти, я не признаю, что вот / можно / охарактеризовать, какую-то там дать вот, вот эти там люди - ленивые, вот эти вот - трудолюбивые, вот эти весёлые, вот эти пьющие, вот эти вот, я н-не счи… считаю, что это некорректно / делить вот людей по ка… на какие-то вот группы и прида...
+1	А-а-а	!X	_	_	_	_	
+3	особенно	особенно	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	_
+5	наверное	наверное	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	_
+7	во	в	ADP	_	_	_	_	_	_
+8	всех	весь	DET	_	Case=Loc|Number=Plur	_	_	_	_
+9	вот	вот	PART	_	_	_	_	_	_
+10	этих	этот	DET	_	Case=Loc|Number=Plur	_	_	_	_
+11	вот	вот	ADV	_	_	_	_	_	_
+12	поездках	поездка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	_
+14	где	где	ADV	_	Degree=Pos	_	_	_	_
+15	бы	бы	PART	_	Mood=Cnd	_	_	_	_
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+17	ни	ни	PART	_	_	_	_	_	_
+18	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	_
+20	больше	много	ADV	_	Degree=Cmp _	_	_	_	_
+21	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+22	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+23	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+24	/	/	PUNCT	_	_	_	_	_	_
+25	узнавать	узнавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+26	что-то	что-то	PRON	_	Case=Acc	_	_	_	_
+27	новое	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+28	именно	именно	PART	_	_	_	_	_	_
+29	о	о	ADP	_	_	_	_	_	_
+30	культуре	культура	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	_	_	_	_
+32	об	о	ADP	_	_	_	_	_	_
+33	образе	образ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+34	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	_
+36	о	о	ADP	_	_	_	_	_	_
+37	каких-то	какой-то	DET	_	Case=Loc|Number=Plur	_	_	_	_
+38	особенностях	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	_
+39	менталитета	менталитет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+40	носи...	носитель	X	_	_	_	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	_	_	_	_
+43	хотя	хотя	SCONJ	_	_	_	_	_	_
+44	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+45	отчасти	отчасти	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+46	,	,	PUNCT	_	_	_	_	_	_
+47	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+48	не	не	PART	_	_	_	_	_	_
+49	признаю	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+50	,	,	PUNCT	_	_	_	_	_	_
+51	что	что	SCONJ	_	_	_	_	_	_
+52	вот	вот	PART	_	_	_	_	_	_
+53	/	/	PUNCT	_	_	_	_	_	_
+54	можно	можно	VERB	_	_	_	_	_
+55	/	/	PUNCT	_	_	_	_	_	_
+56	охарактеризовать	характеризовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	_	_	_	_
+58	какую-то	какой-то	ADV	_	Degree=Pos	_	_	_	_
+59	там	там	ADV	_	Degree=Pos	_	_	_	_
+60	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+61	вот	вот	PART	_	_	_	_	_	SpaceAfter=No
+62	,	,	PUNCT	_	_	_	_	_	_
+63	вот	вот	PART	_	_	_	_	_	_
+64	эти	этот	DET	_	Case=Nom|Number=Plur	_	_	_	_
+65	там	там	ADV	_	Degree=Pos	_	_	_	_
+66	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+67	-	-	PUNCT	_	_	_	_	_	_
+68	ленивые	ленивый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	SpaceAfter=No
+69	,	,	PUNCT	_	_	_	_	_	_
+70	вот	вот	PART	_	_	_	_	_	_
+71	эти	этот	DET	_	Case=Nom|Number=Plur	_	_	_	_
+72	вот	вот	PART	_	_	_	_	_	_
+73	-	-	PUNCT	_	_	_	_	_	_
+74	трудолюбивые	трудолюбивый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	SpaceAfter=No
+75	,	,	PUNCT	_	_	_	_	_	_
+76	вот	вот	PART	_	_	_	_	_	_
+77	эти	этот	DET	_	Case=Nom|Number=Plur	_	_	_	_
+78	весёлые	весёлый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	SpaceAfter=No
+79	,	,	PUNCT	_	_	_	_	_	_
+80	вот	вот	PART	_	_	_	_	_	_
+81	эти	этот	DET	_	Case=Nom|Number=Plur	_	_	_	_
+82	пьющие	пьющий	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No
+83	,	,	PUNCT	_	_	_	_	_	_
+84	вот	вот	PART	_	_	_	_	_	_
+85	эти	этот	DET	_	Case=Nom|Number=Plur	_	_	_	_
+86	вот	вот	PART	_	_	_	_	_	SpaceAfter=No
+87	,	,	PUNCT	_	_	_	_	_	_
+88	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+89	н-не	не		PART _	_	_	_	_
+90	счи...	считать	X	_	_	_	_	
+92	считаю	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+93	,	,	PUNCT	_	_	_	_	_	_
+94	что	что	SCONJ	_	_	_	_	_	_
+95	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+96	некорректно	некорректный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+97	/	/	PUNCT	_	_	_	_	_	_
+98	делить	делить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+99	вот	вот	ADV	_	_	_	_	_	_
+100	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+101	по	по	ADP	_	_	_	_	_	_
+102	ка...	какой-то	X	_	_	_	_	
+104	на	на	ADP	_	_	_	_	_	_
+105	какие-то	какой-то	DET	_	Case=Acc|Number=Plur	_	_	_	_
+106	вот	вот	ADV	_	_	_	_	_	_
+107	группы	группа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+108	и	и	CCONJ	_	_	_	_	_	_
+109	прида...	придать	X	_	_	_	_	
+
+
+avg@
+
+!!! # sent_id = 13
+# text = и вот / хара… пытаться дать характеристику каким-то людям исходя из их там национальности, но, в любом случае, на самом деле от этого никуда не уйдёшь, везде есть какие-то свои особенности, свои нюансы, и вот в путешествиях это самое интересное, когда тебе не гид даёт какую-то общеизвестную информацию, которую можно и / без проблем нагуглить, а когда именно ты / узнаёшь что-то вот / такое особенное, интересное / из первых / уст, то есть тебе говорит да там, пообщаться вот с местными жителями.
+1	и	и	CCONJ	_	_	_	_	_	_
+2	вот	вот	ADV	_	_	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	хара...	характеризовать 	X	_	_	_	_	
+6	пытаться	пытаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	_
+7	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+8	характеристику	характеристика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+9	каким-то	какой-то	DET	_	Case=Dat|Number=Plur	_	_	_	_
+10	людям	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	_
+11	исходя	исходить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	_
+12	из	из	ADP	_	_	_	_	_	_
+13	их	их	DET	_	_	_	_	_	_
+14	там	там	ADV	_	Degree=Pos	_	_	_	_
+15	национальности	национальность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	_
+17	но	но	CCONJ	_	_	_	_	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	_
+19	в	в	ADP	_	_	_	_	_	_
+20	любом	любой	DET	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+21	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	_
+23	на	на	ADP	_	_	_	_	_	_
+24	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+25	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+26	от	от	ADP	_	_	_	_	_	_
+27	этого	этот	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+28	никуда	никуда	ADV	_	Degree=Pos	_	_	_	_
+29	не	не	PART	_	_	_	_	_	_
+30	уйдёшь	уйти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	_	_	_	_
+32	везде	везде	ADV	_	Degree=Pos	_	_	_	_
+33	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+34	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	_	_	_	_
+35	свои	свой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+36	особенности	особенность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	_	_	_	_
+38	свои	свой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+39	нюансы	нюанс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	_	_	_	_
+41	и	и	CCONJ	_	_	_	_	_	_
+42	вот	вот	ADV	_	_	_	_	_	_
+43	в	в	ADP	_	_	_	_	_	_
+44	путешествиях	путешествие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	_	_	_	_
+45	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+46	самое	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+47	интересное	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	_	_	_	_
+49	когда	когда	SCONJ	_	_	_	_	_	_
+50	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	_	_	_	_
+51	не	не	PART	_	_	_	_	_	_
+52	гид	гид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+53	даёт	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+54	какую-то	какой-то	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+55	общеизвестную	общеизвестный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+56	информацию	информация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	_	_	_	_
+58	которую	который	PRON	_	Case=Acc|Gender=Fem	_	_	_	_
+59	можно	можно	ADV	_	Degree=Pos	_	_	_	_
+60	и	и	CCONJ	_	_	_	_	_	_
+61	/	/	PUNCT	_	_	_	_	_	_
+62	без	без	ADP	_	_	_	_	_	_
+63	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+64	нагуглить	нагуглить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No
+65	,	,	PUNCT	_	_	_	_	_	_
+66	а	а	CCONJ	_	_	_	_	_	_
+67	когда	когда	ADV	_	Degree=Pos	_	_	_	_
+68	именно	именно	PART	_	_	_	_	_	_
+69	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+70	/	/	PUNCT	_	_	_	_	_	_
+71	узнаёшь	узнавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+72	что-то	что-то	PRON	_	Case=Acc	_	_	_	_
+73	вот	вот	PART	_	_	_	_	_	_
+74	/	/	PUNCT	_	_	_	_	_	_
+75	такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+76	особенное	особенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+77	,	,	PUNCT	_	_	_	_	_	_
+78	интересное	интересный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+79	/	/	PUNCT	_	_	_	_	_	_
+80	из	из	ADP	_	_	_	_	_	_
+81	первых	первый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+82	/	/	PUNCT	_	_	_	_	_	_
+83	уст	уста	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=No
+84	,	,	PUNCT	_	_	_	_	_	_
+85	то_есть	то_есть	CCONJ	_	_	_	_	_
+87	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	_	_	_	_
+88	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+89	да	да	PART	_	_	_	_	_	_
+90	там	там	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+91	,	,	PUNCT	_	_	_	_	_	_
+92	пообщаться	пообщаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	_
+93	вот	вот	PART	_	_	_	_	_	_
+94	с	с	ADP	_	_	_	_	_	_
+95	местными	местный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	_
+96	жителями	житель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+97	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 15
+# text = Это здорово, это вот очень интересно.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+2	здорово	здоровый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	_
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+5	вот	вот	PART	_	_	_	_	_	_
+6	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+7	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 17
+# text = Ну и конечно, интересно пото… ещё и потому, что общение-то происходит, конечно же, не на русском языке, а на английском, например, и это тоже здорово, это эм….
+1	Ну	ну	PART	_	_	_	_	_	_
+2	и	и	CCONJ	_	_	_	_	_	_
+3	конечно	конечно	 ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	_
+5	интересно	интересный	PRAEDIC	 _	_	_	_	_
+6	пото...	потому	X	_	_	_	_	
+8	ещё	еще	ADV	_	Degree=Pos	_	_	_	_
+9	и	и	PART	_	_	_	_	_	_
+10	потому	потому	SCONJ	_	_	_	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	_
+12	что	что	SCONJ	_	_	_	_	_	_
+13	общение	общение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+15	то	то	PART	_	_	_	_	_
+16	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	_
+18	конечно	конечно	ADV	_	Degree=Pos	_	_	_	_
+19	же	же	PART	_	_	_	_	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	_
+21	не	не	PART	_	_	_	_	_	_
+22	на	на	ADP	_	_	_	_	_	_
+23	русском	русский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+24	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	_
+26	а	а	CCONJ	_	_	_	_	_	_
+27	на	на	ADP	_	_	_	_	_	_
+28	английском	английский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	_
+30	например	например	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	_	_	_	_
+32	и	и	CCONJ	_	_	_	_	_	_
+33	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+34	тоже	тоже	PART	_	_	_	_	_	_
+35	здорово	здорово	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	_	_	_	_
+37	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+38	эм	эм	INTJ	_	_	_	_	SpaceAfter=No
+39	…	…	PUNCT	_	_	_	_	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 19
+# text = Даже думать начинаешь иногда на английском.
+1	Даже	даже	PART	_	_	_	_	_	_
+2	думать	думать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+3	начинаешь	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	иногда	иногда	ADV	_	Degree=Pos	_	_	_	_
+5	на	на	ADP	_	_	_	_	_	_
+6	английском	английский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 21
+# text = Например, после поездки в Исландию мне несколько дней снились сны на английском языке, потому что, узнавая дорогу и так при там знакомствах с местными жителями, мы использовали, я использовала английский язык, и после этого, видимо, немножко перестроился мозг, и / сны снились на английском языке, было интересно.
+1	Например	например	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	после	после	ADP	_	_	_	_	_	_
+4	поездки	поездка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+5	в	в	ADP	_	_	_	_	_	_
+6	Исландию	Исландия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+7	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+8	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	_	_	_	_
+9	дней	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+10	снились	сниться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+11	сны	сон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+12	на	на	ADP	_	_	_	_	_	_
+13	английском	английский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+14	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	_
+16	потому_что	потому_что	SCONJ	_	_	_	_	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	_
+19	узнавая	узнавать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	_
+20	дорогу	дорога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+21	и	и	CCONJ	_	_	_	_	_	_
+22	так	так	ADV	_	Degree=Pos	_	_	_	_
+23	при	при	ADP	_	_	_	_	_	_
+24	там	там	ADV	_	Degree=Pos	_	_	_	_
+25	знакомствах	знакомство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	_	_	_	_
+26	с	с	ADP	_	_	_	_	_	_
+27	местными	местный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	_
+28	жителями	житель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	_
+30	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+31	использовали	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	_	_	_	_
+33	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+34	использовала	использовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+35	английский	английский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+36	язык	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	_	_	_	_
+38	и	и	CCONJ	_	_	_	_	_	_
+39	после	после	ADP	_	_	_	_	_	_
+40	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	_	_	_	_
+42	видимо	видимо	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	_	_	_	_
+44	немножко	немножко	ADV	_	Degree=Pos	_	_	_	_
+45	перестроился	перестроить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+46	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	_	_	_	_
+48	и	и	CCONJ	_	_	_	_	_	_
+49	/	/	PUNCT	_	_	_	_	_	_
+50	сны	сон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+51	снились	сниться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+52	на	на	ADP	_	_	_	_	_	_
+53	английском	английский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+54	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+55	,	,	PUNCT	_	_	_	_	_	_
+56	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+57	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpaceAfter=No
+58	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 23
+# text = Вот, ну это самое интересное.
+1	Вот	вот	ADV	_	_	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	ну	ну	PART	_	_	_	_	_	_
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+5	самое	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+6	интересное	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 25
+# text = Также у меня есть сын, ему сейчас одиннадцать лет.
+1	Также	также	CCONJ	_	_	_	_	_
+2	у	у	ADP	_	_	_	_	_	_
+3	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+5	сын	сын	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	_
+7	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+8	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+9	одиннадцать	одиннадцать	NUM	_	Case=Nom	_	_	_	_
+10	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 27
+# text = Он учится в школе.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+2	учится	учиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+3	в	в	ADP	_	_	_	_	_	_
+4	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 29
+# text = По выходным мы ходим в бассейн.
+1	По	по	ADP	_	_	_	_	_	_
+2	выходным	выходной	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+4	ходим	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+5	в	в	ADP	_	_	_	_	_	_
+6	бассейн	бассейн	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	
+7   .	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 31
+# text = Пытаемся как-то разнообразить всегда свой досуг, мы любим ездить куда-то на природу / с палатками.
+1	Пытаемся	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+2	как-то	как-то	ADV	_	Degree=Pos	_	_	_	_
+3	разнообразить	разнообразить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+4	всегда	всегда	ADV	_	Degree=Pos	_	_	_	_
+5	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+6	досуг	досуг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	_
+8	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+9	любим	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+10	ездить	ездить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+11	куда-то	куда-то	ADV	_	Degree=Pos	_	_	_	_
+12	на	на	ADP	_	_	_	_	_	_
+13	природу	природа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	с	с	ADP	_	_	_	_	_	_
+16	палатками	палатка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 33
+# text = Ну в… походом это не назовешь, потому что поход в моём понимании – это / какая-то пешая долгая прогулка многокилометровая, да?
+1	Ну	ну	PART	_	_	_	_	_	_
+2	в...	в	X	_	_	_	_	_	
+4	походом	поход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+6	не	не	PART	_	_	_	_	_	_
+7	назовешь	назвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	_
+9	потому_что	потому_что	SCONJ	_	_	_	_	_
+11	поход	поход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+12	в	в	ADP	_	_	_	_	_	_
+13	моём	мой	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+14	понимании	понимание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+15	–	–	PUNCT	_	_	_	_	_	_
+16	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+17	/	/	PUNCT	_	_	_	_	_	_
+18	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+19	пешая	пеший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+20	долгая	долгий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+21	прогулка	прогулка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+22	многокилометровая	многокилометровый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	_
+24	да	да	INTJ	_	_	_	_	_	SpaceAfter=No
+25	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 35
+# text = А мы конечно уже так давно не делаем, мы садимся в машину, в комфорте доезжаем до пункта назначения и уже разбиваем свой лагерь недалеко от
+1	А	а	CCONJ	_	_	_	_	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+3	конечно	конечно	ADV	_	Degree=Pos	_	_	_	_
+4	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+5	так	так	ADV	_	Degree=Pos	_	_	_	_
+6	давно	давно	ADV	_	Degree=Pos	_	_	_	_
+7	не	не	PART	_	_	_	_	_	_
+8	делаем	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	_
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+11	садимся	садиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+12	в	в	ADP	_	_	_	_	_	_
+13	машину	машина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	_
+15	в	в	ADP	_	_	_	_	_	_
+16	комфорте	комфорт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+17	доезжаем	доезжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+18	до	до	ADP	_	_	_	_	_	_
+19	пункта	пункт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+20	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+21	и	и	CCONJ	_	_	_	_	_	_
+22	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+23	разбиваем	разбивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+24	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+25	лагерь	лагерь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+26	недалеко	недалеко	ADV	_	Degree=Pos	_	_	_	_
+27	от	от	ADP	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 37
+# text = автомобиля, чтобы отдохнуть, покупаться, позагорать на природе, нам это очень нравится: ночевать в палатке, вечером петь песни под гитару
+1	автомобиля	автомобиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	чтобы	чтобы	SCONJ	_	Mood=Cnd	_	_	_	_
+4	отдохнуть	отдохнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	_
+6	покупаться	покупаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	_
+8	позагорать	позагорать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+9	на	на	ADP	_	_	_	_	_	_
+10	природе	природа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	_
+12	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	_	_	_	_
+13	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+14	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+15	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	_	_	_	_
+17	ночевать	ночевать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+18	в	в	ADP	_	_	_	_	_	_
+19	палатке	палатка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	_
+21	вечером	вечером	ADV	_	Degree=Pos_	_	_	_
+22	петь	петь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+23	песни	песня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+24	под	под	ADP	_	_	_	_	_	_
+25	гитару	гитара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 39
+# text = ммм
+1	ммм	ммм	INTJ	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 41
+# text = готовить на костре, это очень / тоже здорово.
+1	готовить	готовить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+2	на	на	ADP	_	_	_	_	_	_
+3	костре	костер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+6	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	тоже	тоже	PART	_	_	_	_	_	_
+9	здорово	здоровый	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 43
+# text = Но это летом в хорошую погоду.
+1	Но	но	CCONJ	_	_	_	_	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+3	летом	летом	ADV	_	Degree=Pos	_	_	_	_
+4	в	в	ADP	_	_	_	_	_	_
+5	хорошую	хороший	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+6	погоду	погода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 45
+# text = Сейчас осенью из доступных развлечений / это / кратковременный выезд на природу за город на / там сосиски, шашлыки, так погулять и
+1	Сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+2	осенью	осенью	ADV	_	Degree=Pos	_	_	_	_
+3	из	из	ADP	_	_	_	_	_	_
+4	доступных	доступный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+5	развлечений	развлечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	это	это	PART	_	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	кратковременный	кратковременный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+10	выезд	выезд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+11	на	на	ADP	_	_	_	_	_	_
+12	природу	природа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+13	за	за	ADP	_	_	_	_	_	_
+14	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+15	на	на	ADP	_	_	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	там	там	PART	_	_	_	_	_
+18	сосиски	сосиска	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	_
+20	шашлыки	шашлык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	_
+22	так	так	INTJ	_	_	_	_	_
+23	погулять	погулять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+24	и	и	CCONJ	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 47
+# text = уже / бассейн, ждём, когда будет снег, потому что зимой мы ездим на горки катаемся на ватрушках, на каток / на коньках, ну или на лыжах, ну вот на лыжах чё-то в прошлом году мы / и не ездили никуда.
+1	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	бассейн	бассейн	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	_
+5	ждём	ждь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	_
+7	когда	когда	SCONJ	_	_	_	_	_
+8	будет	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+9	снег	снег	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	_
+11	потому_что	потому_что	SCONJ	_	_	_	_	_
+13	зимой	зимой	ADV	_	Degree=Pos	_	_	_	_
+14	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+15	ездим	ездить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+16	на	на	ADP	_	_	_	_	_	_
+17	горки	горка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+18	катаемся	кататься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+19	на	на	ADP	_	_	_	_	_	_
+20	ватрушках	ватрушка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	_
+22	на	на	ADP	_	_	_	_	_	_
+23	каток	каток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+24	/	/	PUNCT	_	_	_	_	_	_
+25	на	на	ADP	_	_	_	_	_	_
+26	коньках	конек	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	_
+28	ну	ну	PART	_	_	_	_	_	_
+29	или	или	CCONJ	_	_	_	_	_	_
+30	на	на	ADP	_	_	_	_	_	_
+31	лыжах	лыжа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	_	_	_	_
+33	ну	ну	PART	_	_	_	_	_	_
+34	вот	вот	PART	_	_	_	_	_	_
+35	на	на	ADP	_	_	_	_	_	_
+36	лыжах	лыжа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	_
+37	чё-то	что-то	distort _	_	_	_	_
+38	в	в	ADP	_	_	_	_	_	_
+39	прошлом	прошлый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+40	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+41	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+42	/	/	PUNCT	_	_	_	_	_	_
+43	и	и	PART	_	_	_	_	_	_
+44	не	не	PART	_	_	_	_	_	_
+45	ездили	ездить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+46	никуда	никуда	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 49
+# text = Э-э вот.
+1	Э-э	Э-э	INTJ	_	_	_	_	_	_
+2	вот	вот	PART	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 51
+# text = Что ещё, я работаю.
+1	Что	что	PRON	_	Case=Acc	_	_	_	_
+2	ещё	еще	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+5	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 53
+# text = Я индивидуальный предприниматель, работаю сама на себя, наверное, моя работа ближе даже не / по каким-то общепринятым параметрам не к работе индивидуального предпринимателя, моя деятельность, а / больше она похожа на деятельность фрилансера, потому что я / у меня нет офиса, у меня нет там ни подчинённых, ни ну соответственно и начальников тоже, я полностью завишу сама от себя.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	индивидуальный	индивидуальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+3	предприниматель	предприниматель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	_
+5	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+6	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+7	на	на	ADP	_	_	_	_	_	_
+8	себя	себя	PRON	_	Case=Acc	_	_	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	_
+10	наверное	наверное	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	_
+12	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+13	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+14	ближе	близко	ADJ	_	Degree=Cmp	_	_	_	_
+15	даже	даже	PART	_	_	_	_	_	_
+16	не	не	PART	_	_	_	_	_	_
+17	/	/	PUNCT	_	_	_	_	_	_
+18	по	по	ADP	_	_	_	_	_	_
+19	каким-то	какой-то	DET	_	Case=Dat|Number=Plur	_	_	_	_
+20	общепринятым	общепринятый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	_
+21	параметрам	параметр	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	_	_	_	_
+22	не	не	PART	_	_	_	_	_	_
+23	к	к	ADP	_	_	_	_	_	_
+24	работе	работа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+25	индивидуального	индивидуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+26	предпринимателя	предприниматель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	_
+28	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+29	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	_	_	_	_
+31	а	а	CCONJ	_	_	_	_	_	_
+32	/	/	PUNCT	_	_	_	_	_	_
+33	больше	больше	ADV	_	Degree=Cmp	_	_	_	_
+34	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+35	похожа	похожий	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	_
+36	на	на	ADP	_	_	_	_	_	_
+37	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+38	фрилансера	фрилансер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	_	_	_	_
+40	потому_что	потому_что	SCONJ _	_	_	_	_
+42	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+43	/	/	PUNCT	_	_	_	_	_	_
+44	у	у	ADP	_	_	_	_	_	_
+45	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+46	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+47	офиса	офис	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	_	_	_	_
+49	у	у	ADP	_	_	_	_	_	_
+50	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+51	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+52	там	там	ADV	_	Degree=Pos	_	_	_	_
+53	ни	ни	CCONJ	_	_	_	_	_	_
+54	подчинённых	подчинённый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	SpaceAfter=No
+55	,	,	PUNCT	_	_	_	_	_	_
+56	ни	ни	CCONJ	_	_	_	_	_	_
+57	ну	ну	PART	_	_	_	_	_	_
+58	соответственно	соответственно	ADV	_	Degree=Pos	_	_	_	_
+59	и	и	PART	_	_	_	_	_	_
+60	начальников	начальник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+61	тоже	тоже	PART	_	_	_	_	_	SpaceAfter=No
+62	,	,	PUNCT	_	_	_	_	_	_
+63	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+64	полностью	полностью	ADV	_	Degree=Pos	_	_	_	_
+65	завишу	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+66	сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+67	от	от	ADP	_	_	_	_	_	_
+68	себя	себя	PRON	_	Case=Gen	_	_	_	SpaceAfter=No
+69	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 55
+# text = Я занимаюсь страхованием, то есть
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	занимаюсь	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+3	страхованием	страхование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	_
+5	то_есть	то_есть	SCONJ	_	_	_	_	_
+
+avg@
+
+# sent_id = 57
+# text = ко мне обращается / заказчик, я / оформляю ему документы и получаю за это свои комиссионные.
+1	ко	к	ADP	_	_	_	_	_	_
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+3	обращается	обращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	заказчик	заказчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	_
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	оформляю	оформлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+10	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+11	документы	документ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+12	и	и	CCONJ	_	_	_	_	_	_
+13	получаю	получать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+14	за	за	ADP	_	_	_	_	_	_
+15	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+16	свои	свой	DET	_	Case=Acc|Number=Plur	_	_	_	_
+17	комиссионные	комиссионные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	_	_	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 59
+# text = В основном / моя / работа держится на моём имени, на моём имидже, то что я весёлая, дружелюбная, а-а
+1	В_основном	в_основном	ADV	_	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+7	держится	держаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+8	на	на	ADP	_	_	_	_	_	_
+9	моём	мой	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+10	имени	имя	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	_
+12	на	на	ADP	_	_	_	_	_	_
+13	моём	мой	PRON	_	Case=Loc	_	_	_	_
+14	имидже	имидж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing _	_	_	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	_
+16	то	то	SCONJ	_	_	_	_	_	_
+17	что	что	SCONJ	_	_	_	_	_	_
+18	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+19	весёлая	весёлый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	_
+21	дружелюбная	дружелюбный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	_
+23	а-а	аа	INTJ	_	_	_	_	_ SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 61
+# text = всегда помогу, подскажу.
+1	всегда	всегда	ADV	_	Degree=Pos	_	_	_	_
+2	помогу	поможать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	_
+4	подскажу	подсказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+!!! # sent_id = 63
+# text = А-а-а-а
+1	А-а-а-а	А	INTJ	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 65
+# text = ну и в основном, мои клиенты – это какие-то там знакомые знакомых, знакомые / моих / предыдущих клиентов.
+1	ну	ну	PART	_	_	_	_	_	_
+2	и	и	CCONJ	_	_	_	_	_	_
+3	в	в	ADP	_	_	_	_	_	_
+4	основном	основное	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	_
+6	мои	мой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+7	клиенты	клиент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+8	–	–	PUNCT	_	_	_	_	_	_
+9	это	это	PART	_	_	_	_	_	_
+10	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	_	_	_	_
+11	там	там	PART	_	_	_	_	_
+12	знакомые	знакомый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+13	знакомых	знакомый    ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	_
+15	знакомые	знакомый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	моих	мой	DET	_	Case=Gen|Number=Plur	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	предыдущих	предыдущий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+20	клиентов	клиент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg@
+
+# sent_id = 67
+# text = Вот.
+1	Вот	вот	PART	_	_	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+avg
+
